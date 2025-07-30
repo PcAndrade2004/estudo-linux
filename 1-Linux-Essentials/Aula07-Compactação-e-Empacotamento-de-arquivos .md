@@ -130,9 +130,42 @@ tar -cvf projeto_aula.tar aula07/
 
 ### Criar um Arquivo `.tar.gz` (Agrupar e Comprimir com gzip)
 
+Essa é a forma mais comum de usar o `tar`. Você agrupa e já comprime para economizar espaço.
 
+```
+tar -czvf projeto_aula.tar.gz documentos/
+```
 
+- `c`: **c**riar
+- `z`: comprimir com `g**z**ip`
+- `v`: **v**er o que está fazendo
+- `f`: especificar o **f**ile (`meus_documentos.tar.gz`)
 
+### Criar um Arquivo `.tar.bz2` (Agrupar e Comprimir com bzip2)
 
+Se a prioridade for o menor tamanho possível e você não se importa com a velocidade de compressão/descompressão, use `-j`.
 
+```
+tar -cjvf projeto_aula.tar.bz2 fotos/
+```
 
+- `c`: **c**riar
+- `j`: comprimir com `b**j**ip2`
+- `v`: **v**er o que está fazendo
+- `f`: especificar o **f**ile (`minhas_fotos.tar.bz2`)
+
+### **Listar o Conteúdo de um Arquivo `.tar.gz` (Espiar)**
+
+Quer saber o que tem dentro de um arquivo `.tar.gz` sem extrair tudo? Use `-t`!
+
+```
+tar -tzf projeto_aula.tar.gz
+```
+
+- `t`: **t**estar (listar) o conteúdo
+
+- `z`: é um arquivo `g**z**ip`
+
+- `f`: especificar o **f**ile (`meus_documentos.tar.gz`)
+
+  
