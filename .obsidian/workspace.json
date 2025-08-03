@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "10988a465366cbfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2ee74b30d7cda9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2626f0c4fddc6be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Linux-Essentials/Aula07-Compactação-e-Empacotamento-de-arquivos .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula07-Compactação-e-Empacotamento-de-arquivos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "343a37d0a7010bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e73f4c45b77f556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2488105e33e9c9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f42d262067b6e03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a1a65e10a2cfdc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a44a2c8412286a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fc20d6189633810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4cfe2c8ecce0573",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Linux-Essentials/Aula07-Compactação-e-Empacotamento-de-arquivos .md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aula07-Compactação-e-Empacotamento-de-arquivos"
+            }
+          },
+          {
+            "id": "60668dd0d1abe24b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Linux-Essentials/Aula07-Compactação-e-Empacotamento-de-arquivos .md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aula07-Compactação-e-Empacotamento-de-arquivos"
+            }
+          },
+          {
+            "id": "9e2ae233b07952e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9da9e5779beddbc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Linux-Essentials/Aula07-Compactação-e-Empacotamento-de-arquivos .md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aula07-Compactação-e-Empacotamento-de-arquivos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2626f0c4fddc6be6",
+  "lastOpenFiles": []
+}
